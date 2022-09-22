@@ -1,0 +1,1 @@
+# kagoshima-mk-26-kenken
